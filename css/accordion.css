@@ -1,0 +1,28 @@
+body{
+	margin: 20px;
+}
+.accordion{
+	width: 800px;
+	margin: 0 auto;
+}
+.accordion h1{
+	font-size: 26px;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #d3d3d3;
+	padding: 10px 0px;
+	border: 1px solid #0d0d0d;
+	border-radius: 3px;
+}
+.accordion h1:hover{
+	cursor:pointer;
+}
+.accordion div{
+	display: none;
+	padding: 10px;
+	border: 1px solid #0d0d0d;
+	border-radius: 3px;
+	background-color: #e8e8e8;
+	font-family: "Lucida Console";
+}
