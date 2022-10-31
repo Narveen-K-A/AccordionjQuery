@@ -6,6 +6,6 @@ $(document).ready(function(){
 				$(this).slideUp();
 			}
 		});
-	$(this).next().toggle();
+		$(this).next().toggle();
 	});
 });
