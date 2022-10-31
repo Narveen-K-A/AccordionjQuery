@@ -1,5 +1,8 @@
 body{
-	margin: 20px;
+	margin: 20px;	
+}
+h1{
+	text-align: center;
 }
 .accordion{
 	width: 800px;
